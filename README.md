@@ -1,2 +1,2 @@
 # UsefulAutoLISP
-Useful AutoLISP scripts I've written or found while working with autocad
+Useful AutoLISP scripts I've written while working with autocad.
